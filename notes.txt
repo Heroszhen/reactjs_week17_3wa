@@ -1,0 +1,8 @@
+npm i react-google-login
+npm i react-quill
+https://segmentfault.com/a/1190000022717625
+npm install react-redux --save
+npm install redux --save
+https://www.youtube.com/watch?v=kOQBg6PC6ZY&list=PL9nxfq1tlKKnza3MPogWqaYIPtdW_G2lF&index=33
+
+

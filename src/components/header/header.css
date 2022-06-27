@@ -1,0 +1,7 @@
+#myheader nav a.nav-link{
+    color:gainsboro;
+}
+#myheader nav a.nav-link.active{
+    color:white;
+    font-weight: bold;
+}
